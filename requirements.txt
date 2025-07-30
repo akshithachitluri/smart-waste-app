@@ -1,0 +1,12 @@
+streamlit
+
+tensorflow
+
+Pillow (for PIL)
+
+numpy
+
+ultralytics
+
+streamlit-webrtc
+
