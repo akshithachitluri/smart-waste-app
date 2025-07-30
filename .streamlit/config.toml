@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+
+[theme]
+backgroundColor = "#E8F5E9"  # A very light, soft green
+secondaryBackgroundColor = "#C8E6C9" # A slightly darker green for the sidebar/widgets
+primaryColor = "#4CAF50"    # A vibrant green for buttons and interactive elements
+textColor = "#263238"       # A dark, slate grey for readable text
