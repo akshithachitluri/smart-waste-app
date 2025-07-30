@@ -1,12 +1,6 @@
 streamlit
-
 tensorflow
-
-Pillow (for PIL)
-
+Pillow
 numpy
-
 ultralytics
-
 streamlit-webrtc
-
